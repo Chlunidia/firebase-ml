@@ -325,8 +325,7 @@ class ImageClassifierHelper(
             1 -> "Trouser"
             2 -> "Pullover"
             3 -> "Dress"
-            4 -> "Shirt"
-            else -> "Unknown"
+            else -> "Shirt"
         }
     }
 
