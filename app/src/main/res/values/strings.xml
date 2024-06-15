@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ml_learning</string>
+    <string name="classifier_failed">Classified failed</string>
+    <string name="analyze">Analyze\n</string>
+    <string name="gallery">Gallery</string>
+    <string name="no_image_selected">No image selected\n</string>
+    <string name="model_ready">Model is ready</string>
+</resources>

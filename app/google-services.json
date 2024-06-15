@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1021683446086",
+    "project_id": "belajar-fde98",
+    "storage_bucket": "belajar-fde98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021683446086:android:a282dbd5ed9165de113547",
+        "android_client_info": {
+          "package_name": "com.example.ml_learning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALB7x48PriqQPPDz5N9ntDFhLmzcK9lGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
