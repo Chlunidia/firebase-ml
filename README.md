@@ -29,8 +29,8 @@ I developed this project to learn about implementing Firebase ML in Kotlin. This
 ### Installation
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/yourprojectname.git
-   cd yourprojectname
+   git clone https://github.com/chlunidia/firebase-ml.git
+   cd firebase-ml
 
 2. **Open the Project in Android Studio**
    - Open Android Studio and select "Open an existing Android Studio project".
