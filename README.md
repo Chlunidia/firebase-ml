@@ -29,7 +29,7 @@ I developed this project to learn about implementing Firebase ML in Kotlin. This
 ### Installation
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/chlunidia/firebase-ml.git
+   git clone https://github.com/Chlunidia/firebase-ml.git
    cd firebase-ml
 
 2. **Open the Project in Android Studio**
